@@ -9,9 +9,9 @@
     'depends': ['mrp', 'stock', 'web'],
     'assets': {
         'web.assets_backend': [
-            'aq_simplified_mrp/static/src/js/simplified_mrp_client_action.js',
-            'aq_simplified_mrp/static/src/scss/simplified_mrp.scss',
-            'aq_simplified_mrp/static/src/xml/simplified_mrp_templates.xml',
+            'aq_simplified_mrp_19/static/src/js/simplified_mrp_client_action.js',
+            'aq_simplified_mrp_19/static/src/scss/simplified_mrp.scss',
+            'aq_simplified_mrp_19/static/src/xml/simplified_mrp_templates.xml',
         ],
     },
     'data': [
