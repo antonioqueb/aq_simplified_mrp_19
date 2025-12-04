@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'AQ Simplified MRP',
-    'version': '18.0.1.0.0',
+    'version': '19.0.2.0.0',
     'summary': 'UI paso a paso para crear Órdenes de Producción',
     'category': 'Manufacturing',
     'author': 'Alphaqueb Consulting SAS',
